@@ -1,6 +1,6 @@
 # Attendance Management - React Native Expo App
 
-![App Screenshots](./images/1.jpg)
+<img src="images/1.jpg" alt="Image 1" width="100px" height="200px">
 
 ## Description
 
