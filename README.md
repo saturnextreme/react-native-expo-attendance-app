@@ -15,6 +15,7 @@ This is a mobile application built with React Native Expo (Frontend) and Supabas
     <img src="images/Screenshot_20240507_140916_Expo Go.jpg" alt="Image 5" width="200px" height="400px">
     <img src="images/Screenshot_20240507_140842_Expo Go.jpg" alt="Image 6" width="200px" height="400px">
     <img src="images/Screenshot_20240507_140929_Expo Go.jpg" alt="Image 7" width="200px" height="400px">
+    <img src="images/Screenshot_20240507_140945_Expo Go.jpg" alt="Image 8" width="200px" height="400px">
 </div>
 
 ## Installation and Usage
