@@ -39,18 +39,14 @@ This is a mobile application built with React Native Expo (Frontend) and Supabas
 ```
 3. Install dependencies:
 ```bash
-
+    npm install
 ```
 4. Start the Expo server:
 ```bash
-  npm install
-```
-5. Follow the instructions in the terminal to open the app on your device/emulator or scan the QR code with the Expo Go app.
-```bash
   npx expo start -c 
 ```
-6. Download Expo Go in you Android / IOS and Scan the provided QR code in your terminal after running above code.
-   
+5. Follow the instructions in the terminal to open the app on your device/emulator or scan the QR code with the Expo Go app.
+
 ## Contributing
 
 Contributions are welcome! If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
