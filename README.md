@@ -1,6 +1,6 @@
 # Attendance Management - React Native Expo App
 
-![App Screenshots]('./images/Screenshot_20240507_140942_Expo Go.jpg')
+![App Screenshots](./images/1.jpg)
 
 ## Description
 
