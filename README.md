@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a mobile application built with React Native Expo for managing attendance. The app provides features for recording attendance, generating reports, and managing student or employee data efficiently.
+This is a mobile application built with React Native Expo (Frontend) and Supabase SDK (Backend) managing attendance. The app provides features for recording attendance, generating reports, and managing student or employee data efficiently.
 
 ## Screenshots
 
