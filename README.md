@@ -7,14 +7,15 @@ This is a mobile application built with React Native Expo for managing attendanc
 ## Screenshots
 
 ### Home Screen
-<img src="images/1.jpg" alt="Image 1" width="200px" height="400px">
-<img src="images/Screenshot_20240507_140853_Expo Go.jpg" alt="Image 1" width="200px" height="400px">
-<img src="images/Screenshot_20240507_140826_Expo Go.jpg" width="200px" height="400px">
-<img src="images/Screenshot_20240507_140858_Expo Go.jpg" alt="Image 1" width="200px" height="400px">
-<img src="images/Screenshot_20240507_140916_Expo Go.jpg" alt="Image 1" width="200px" height="400px">
-<img src="images/Screenshot_20240507_140842_Expo Go.jpg" alt="Image 1" width="200px" height="400px">
-<img src="images/1.jpg" alt="Image 1" width="200px" height="400px">
-<img src="images/1.jpg" alt="Image 1" width="200px" height="400px">
+<div style="display: flex; flex-wrap: wrap;">
+    <img src="images/1.jpg" alt="Image 1" width="200px" height="400px">
+    <img src="images/Screenshot_20240507_140853_Expo Go.jpg" alt="Image 2" width="200px" height="400px">
+    <img src="images/Screenshot_20240507_140826_Expo Go.jpg" alt="Image 3" width="200px" height="400px">
+    <img src="images/Screenshot_20240507_140858_Expo Go.jpg" alt="Image 4" width="200px" height="400px">
+    <img src="images/Screenshot_20240507_140916_Expo Go.jpg" alt="Image 5" width="200px" height="400px">
+    <img src="images/Screenshot_20240507_140842_Expo Go.jpg" alt="Image 6" width="200px" height="400px">
+    <img src="images/Screenshot_20240507_140929_Expo Go.jpg" alt="Image 7" width="200px" height="400px">
+</div>
 
 ## Installation and Usage
 
