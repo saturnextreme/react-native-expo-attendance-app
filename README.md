@@ -1,7 +1,5 @@
 # Attendance Management - React Native Expo App
 
-<img src="images/1.jpg" alt="Image 1" width="100px" height="200px">
-
 ## Description
 
 This is a mobile application built with React Native Expo for managing attendance. The app provides features for recording attendance, generating reports, and managing student or employee data efficiently.
@@ -9,10 +7,14 @@ This is a mobile application built with React Native Expo for managing attendanc
 ## Screenshots
 
 ### Home Screen
-![Home Screen](./images/home_screen.png)
-
-### Attendance Recording
-![Attendance Recording](./images/attendance_recording.png)
+<img src="images/1.jpg" alt="Image 1" width="200px" height="400px">
+<img src="images/Screenshot_20240507_140853_Expo Go.jpg" alt="Image 1" width="200px" height="400px">
+<img src="images/Screenshot_20240507_140826_Expo Go.jpg" width="200px" height="400px">
+<img src="images/Screenshot_20240507_140858_Expo Go.jpg" alt="Image 1" width="200px" height="400px">
+<img src="images/Screenshot_20240507_140916_Expo Go.jpg" alt="Image 1" width="200px" height="400px">
+<img src="images/Screenshot_20240507_140842_Expo Go.jpg" alt="Image 1" width="200px" height="400px">
+<img src="images/1.jpg" alt="Image 1" width="200px" height="400px">
+<img src="images/1.jpg" alt="Image 1" width="200px" height="400px">
 
 ## Installation and Usage
 
